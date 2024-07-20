@@ -1,3 +1,4 @@
+# 1284번: 집 주소
 import sys
 
 while True:
